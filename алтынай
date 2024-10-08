@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Личный сайт Алтынай Дамировой</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="ваша_фотография.jpg" alt="Алтынай Дамирова">
+        <h1>Алтынай Мирбековна Дамирова</h1>
+        <h2>Группа: Истг-1-23</h2>
+        <h2>Дисциплина: Front end</h2>
+
+        <h2>Доступ к лабораторным работам:</h2>
+        <ul>
+            <li><a href="ссылка_на_лабораторную_работу_1" target="_blank">Лабораторная работа 1</a></li>
+            <li><a href="ссылка_на_лабораторную_работу_2" target="_blank">Лабораторная работа 2</a></li>
+            <li><a href="ссылка_на_лабораторную_работу_3" target="_blank">Лабораторная работа 3</a></li>
+            <li><a href="ссылка_на_лабораторную_работу_4" target="_blank">Лабораторная работа 4</a></li>
+            <li><a href="ссылка_на_лабораторную_работу_5" target="_blank">Лабораторная работа 5</a></li>
+            <li><a href="ссылка_на_лабораторную_работу_6" target="_blank">Лабораторная работа 6</a></li>
+            <li><a href="ссылка_на_лабораторную_работу_7" target="_blank">Лабораторная работа 7</a></li>
+            <li><a href="ссылка_на_лабораторную_работу_8" target="_blank">Лабораторная работа 8</a></li>
+        </ul>
+    </div>
+</body>
+</html>
